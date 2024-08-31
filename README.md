@@ -12,7 +12,7 @@
 ![](https://camo.githubusercontent.com/29ff29747e26e165b845fefb6d786c4431acb0038b1b83913ce96352ee627880/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35)
 ![](https://img.shields.io/badge/Keycloak-black?style=flat-square&logo=Keycloak)
 ![](https://img.shields.io/badge/Swing-black?style=flat-square&logo=Swing)
-![](https://img.shields.io/badge/jwt-black?style=flat-square&logo=jwt)
+![](https://img.shields.io/badge/Jwt-black?style=flat-square&logo=Jwt)
 
 ## Tools:
 ![](https://camo.githubusercontent.com/2394a9b35545e153482c0b8683cff56e8302c7b2dda821038efe8b563c9716e7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7673636f64652d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d303037414343)
