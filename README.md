@@ -1,7 +1,7 @@
 ## Hi there my Name is Kreakxx 👋
 
 ## Im a Junior Spring Developer, and im currently improving my Skill in building restful APIs and scalable Backends 
-![](https://raw.githubusercontent.com/KreakxX/KreakxX/output/github-contribution-grid-snake-dark.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/KreakxX/KreakxX/output/github-contribution-grid-snake-dark.svg)
 ## Languages:
 ![](https://camo.githubusercontent.com/fdf2367381e90975734099ba0a8cbdd0a5aaa606fe528a6e2a424ea4071d38be/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e6865726f6b756170702e636f6d2f62616467652f6a6176612d626c61636b2e7376673f6c6f676f3d6a617661266c6f676f436f6c6f723d7768697465267374796c653d666c61742d737175617265)
 ![](https://img.shields.io/badge/Typescript-black?style=flat-square&logo=Typescript)
