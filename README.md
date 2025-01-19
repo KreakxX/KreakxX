@@ -4,6 +4,7 @@
 ## Languages:
 ![](https://camo.githubusercontent.com/fdf2367381e90975734099ba0a8cbdd0a5aaa606fe528a6e2a424ea4071d38be/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e6865726f6b756170702e636f6d2f62616467652f6a6176612d626c61636b2e7376673f6c6f676f3d6a617661266c6f676f436f6c6f723d7768697465267374796c653d666c61742d737175617265)
 ![](https://img.shields.io/badge/Typescript-black?style=flat-square&logo=Typescript)
+![](https://img.shields.io/badge/Python-black?style=flat-square&logo=Python)
 
 ## Skills:
 ![](https://camo.githubusercontent.com/f0616c5edda54792705cadd9f622bb98c78dcb6af5abb1a3fb180831e1b0038a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f737072696e672d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d737072696e67)
@@ -16,6 +17,8 @@
 ![](https://img.shields.io/badge/Swing-black?style=flat-square&logo=Swing)
 ![](https://img.shields.io/badge/Jwt-black?style=flat-square&logo=Jwt)
 ![](https://img.shields.io/badge/JUnit-black?style=flat-square&logo=JUnit)
+![](https://img.shields.io/badge/Scikit-learn-black?style=flat-square&logo=Scikit-learn)
+
 
 ## Tools:
 ![](https://camo.githubusercontent.com/2394a9b35545e153482c0b8683cff56e8302c7b2dda821038efe8b563c9716e7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7673636f64652d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d303037414343)
