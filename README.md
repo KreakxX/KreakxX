@@ -10,6 +10,7 @@
 ![](https://camo.githubusercontent.com/f0616c5edda54792705cadd9f622bb98c78dcb6af5abb1a3fb180831e1b0038a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f737072696e672d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d737072696e67)
 ![](https://camo.githubusercontent.com/c96e2607db1a128e8d90096b114783a80a8299d3af70dabe11b69a831ae6b7ce/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68696265726e6174652d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d68696265726e617465)
 ![](https://img.shields.io/badge/React-black?style=flat-square&logo=React)
+![](https://img.shields.io/badge/nextjs-black?style=flat-square&logo=nextjs)
 ![](https://img.shields.io/badge/tailwindcss-black?style=flat-square&logo=tailwindcss)
 ![](https://img.shields.io/badge/Selenium-black?style=flat-square&logo=Selenium)
 ![](https://img.shields.io/badge/Css3-black?style=flat-square&logo=Css3)
