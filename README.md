@@ -20,11 +20,13 @@
 ![](https://img.shields.io/badge/Swing-black?style=flat-square&logo=Swing)
 ![](https://img.shields.io/badge/Jwt-black?style=flat-square&logo=Jwt)
 ![](https://img.shields.io/badge/JUnit-black?style=flat-square&logo=JUnit)
-![](https://img.shields.io/badge/scikit-black?style=flat-square&logo=scikit)
+![](https://img.shields.io/badge/scikit-learn-black?style=flat-square&logo=scikit-learn)
 ![](https://img.shields.io/badge/pandas-black?style=flat-square&logo=pandas)
 ![](https://img.shields.io/badge/tensorflow-black?style=flat-square&logo=tensorflow)
 ![](https://img.shields.io/badge/keras-black?style=flat-square&logo=keras)
 ![](https://img.shields.io/badge/pytorch-black?style=flat-square&logo=pytorch)
+![](https://img.shields.io/badge/numpy-black?style=flat-square&logo=numpy)
+
 
 
 
