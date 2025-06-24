@@ -27,6 +27,8 @@
 ![](https://img.shields.io/badge/keras-black?style=flat-square&logo=keras)
 ![](https://img.shields.io/badge/pytorch-black?style=flat-square&logo=pytorch)
 ![](https://img.shields.io/badge/numpy-black?style=flat-square&logo=numpy)
+![](https://img.shields.io/badge/expo-black?style=flat-square&logo=expo)
+
 
 
 
