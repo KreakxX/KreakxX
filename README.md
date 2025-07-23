@@ -13,6 +13,8 @@
 ![](https://img.shields.io/badge/React-black?style=flat-square&logo=React)
 ![](https://img.shields.io/badge/next.js-black?style=flat-square&logo=next.js)
 ![](https://img.shields.io/badge/fastapi-black?style=flat-square&logo=fastapi)
+![](https://img.shields.io/badge/discord.js-black?style=flat-square&logo=discord.js)
+![](https://img.shields.io/badge/node.js-black?style=flat-square&logo=node.js)
 ![](https://img.shields.io/badge/tailwindcss-black?style=flat-square&logo=tailwindcss)
 ![](https://img.shields.io/badge/Selenium-black?style=flat-square&logo=Selenium)
 ![](https://img.shields.io/badge/Css3-black?style=flat-square&logo=Css3)
