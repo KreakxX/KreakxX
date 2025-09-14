@@ -6,8 +6,6 @@
 ![](https://img.shields.io/badge/Typescript-black?style=flat-square&logo=Typescript)
 ![](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=Javascript)
 ![](https://img.shields.io/badge/Rust-black?style=flat-square&logo=Rust)
-
-
 ![](https://img.shields.io/badge/Python-black?style=flat-square&logo=Python)
 
 
