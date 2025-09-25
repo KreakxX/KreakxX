@@ -29,6 +29,8 @@
 ![](https://img.shields.io/badge/expo-black?style=flat-square&logo=expo)
 ![](https://img.shields.io/badge/tauri-black?style=flat-square&logo=tauri)
 ![](https://img.shields.io/badge/prisma-black?style=flat-square&logo=prisma)
+![](https://img.shields.io/badge/electron-black?style=flat-square&logo=electron)
+
 
 
 
