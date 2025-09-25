@@ -19,7 +19,7 @@
 ![](https://img.shields.io/badge/node.js-black?style=flat-square&logo=node.js)
 ![](https://img.shields.io/badge/tailwindcss-black?style=flat-square&logo=tailwindcss)
 ![](https://img.shields.io/badge/Selenium-black?style=flat-square&logo=Selenium)
-![](https://img.shields.io/badge/Css3-black?style=flat-square&logo=Css3)
+![](https://img.shields.io/badge/Css-black?style=flat-square&logo=Css)
 ![](https://camo.githubusercontent.com/29ff29747e26e165b845fefb6d786c4431acb0038b1b83913ce96352ee627880/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35)
 ![](https://img.shields.io/badge/Keycloak-black?style=flat-square&logo=Keycloak)
 ![](https://img.shields.io/badge/pandas-black?style=flat-square&logo=pandas)
