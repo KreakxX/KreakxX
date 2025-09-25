@@ -30,6 +30,8 @@
 ![](https://img.shields.io/badge/tauri-black?style=flat-square&logo=tauri)
 ![](https://img.shields.io/badge/prisma-black?style=flat-square&logo=prisma)
 ![](https://img.shields.io/badge/electron-black?style=flat-square&logo=electron)
+![](https://img.shields.io/badge/reactnative-black?style=flat-square&logo=reactnative)
+
 
 
 
