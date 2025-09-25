@@ -30,8 +30,7 @@
 ![](https://img.shields.io/badge/tauri-black?style=flat-square&logo=tauri)
 ![](https://img.shields.io/badge/prisma-black?style=flat-square&logo=prisma)
 ![](https://img.shields.io/badge/electron-black?style=flat-square&logo=electron)
-[![](https://img.shields.io/badge/react_native-black?style=flat-square&logo=react_native)
-](https://camo.githubusercontent.com/e1d92f2857702035747c4ce5bb9a8f525a9044f124712049f5c1aaba3a9a1f28/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163745f6e61746976652d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7265616374)
+[![](https://camo.githubusercontent.com/e1d92f2857702035747c4ce5bb9a8f525a9044f124712049f5c1aaba3a9a1f28/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163745f6e61746976652d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7265616374)
 
 
 
