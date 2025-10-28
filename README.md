@@ -50,6 +50,13 @@
 ![](https://camo.githubusercontent.com/497c07895629bc138cc16d685cab237416cc26264e8a5b5830ce5ba474a0f469/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6d7973716c)
 ![](https://camo.githubusercontent.com/a3a75d79eb249468237e8ea479097e0627988702f8003cfc94976e66f25f3693/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f73746d616e2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d706f73746d616e)
 ![](https://camo.githubusercontent.com/97882a7d91186d09a69bef59900058d2edcca3ef0ec9c0de30425aa26c0b57f1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f636b65722d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d646f636b6572)
+![](https://img.shields.io/badge/git-black?style=flat-square&logo=git)
+![](https://img.shields.io/badge/windows-black?style=flat-square&logo=windows)
+![](https://img.shields.io/badge/android-black?style=flat-square&logo=android)
+![](https://img.shields.io/badge/wordpress-black?style=flat-square&logo=wordpress)
+
+
+
 
 
 
