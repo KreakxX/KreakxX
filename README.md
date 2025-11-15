@@ -1,4 +1,4 @@
-## Hi there my Name is Kreakxx 👋
+## Hi there my Name is Kreakxx 
 
 ## 17yo best ML & Fullstack developer in School
 ## Languages:
