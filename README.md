@@ -1,4 +1,4 @@
-## Hi there my Name is Kreakxx 
+## Hi there my Name is KreakxX
 
 ## 17yo best Developer in School
 ## Languages
